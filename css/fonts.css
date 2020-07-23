@@ -1,119 +1,119 @@
 @font-face {
   font-family: 'DIN Black';
-  src: url("../fonts/DIN-Black.otf") format("opentype");
+  src: url("/fonts/DIN-Black.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Black Alternate';
-  src: url("../fonts/DIN-BlackAlternate.otf") format("opentype");
+  src: url("/fonts/DIN-BlackAlternate.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Black Italic';
-  src: url("../fonts/DIN-BlackItalic.otf") format("opentype");
+  src: url("/fonts/DIN-BlackItalic.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Black Italic Alt';
-  src: url("../fonts/DIN-BlackItalicAlt.otf") format("opentype");
+  src: url("/fonts/DIN-BlackItalicAlt.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Bold';
-  src: url("../fonts/DIN-Bold.otf") format("opentype");
+  src: url("/fonts/DIN-Bold.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Bold Alternate';
-  src: url("../fonts/DIN-BoldAlternate.otf") format("opentype");
+  src: url("/fonts/DIN-BoldAlternate.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Bold Italic';
-  src: url("../fonts/DIN-BoldItalic.otf") format("opentype");
+  src: url("/fonts/DIN-BoldItalic.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Bold Italic Alt';
-  src: url("../fonts/DIN-BoldItalicAlt.otf") format("opentype");
+  src: url("/fonts/DIN-BoldItalicAlt.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Light';
-  src: url("../fonts/DIN-Light.otf") format("opentype");
+  src: url("/fonts/DIN-Light.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Light Alternate';
-  src: url("../fonts/DIN-LightAlternate.otf") format("opentype");
+  src: url("/fonts/DIN-LightAlternate.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Light Italic';
-  src: url("../fonts/DIN-LightItalic.otf") format("opentype");
+  src: url("/fonts/DIN-LightItalic.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Light Italic Alt';
-  src: url("../fonts/DIN-LightItalicAlt.otf") format("opentype");
+  src: url("/fonts/DIN-LightItalicAlt.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Medium';
-  src: url("../fonts/DIN-Medium.otf") format("opentype");
+  src: url("/fonts/DIN-Medium.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Medium Alternate';
-  src: url("../fonts/DIN-MediumAlternate.otf") format("opentype");
+  src: url("/fonts/DIN-MediumAlternate.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Medium Italic';
-  src: url("../fonts/DIN-MediumItalic.otf") format("opentype");
+  src: url("/fonts/DIN-MediumItalic.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Medium Italic Alt';
-  src: url("../fonts/DIN-MediumItalicAlt.otf") format("opentype");
+  src: url("/fonts/DIN-MediumItalicAlt.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Regular';
-  src: url("../fonts/DIN-Regular.otf") format("opentype");
+  src: url("/fonts/DIN-Regular.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Regular Alternate';
-  src: url("../fonts/DIN-RegularAlternate.otf") format("opentype");
+  src: url("/fonts/DIN-RegularAlternate.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Regular Italic';
-  src: url("../fonts/DIN-RegularItalic.otf") format("opentype");
+  src: url("/fonts/DIN-RegularItalic.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'DIN Regular Italic Alt';
-  src: url("../fonts/DIN-RegularItalicAlt.otf") format("opentype");
+  src: url("/fonts/DIN-RegularItalicAlt.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'UnitSlabOT-BlackIta';
-  src: url("../fonts/UnitSlabOT-BlackIta.otf") format("opentype");
+  src: url("/fonts/UnitSlabOT-BlackIta.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'UnitSlabOT-MediIta';
-  src: url("../fonts/UnitSlabOT-MediIta.otf") format("opentype");
+  src: url("/fonts/UnitSlabOT-MediIta.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'UnitSlabOT-BoldIta';
-  src: url("../fonts/UnitSlabOT-BoldIta.otf") format("opentype");
+  src: url("/fonts/UnitSlabOT-BoldIta.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'UnitSlabOT-LightIta';
-  src: url("../fonts/UnitSlabOT-LightIta.otf") format("opentype");
+  src: url("/fonts/UnitSlabOT-LightIta.otf") format("opentype");
 }
