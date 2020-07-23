@@ -10,12 +10,12 @@
 
 @font-face {
   font-family: 'DIN Black Italic';
-  src: url("../fonts/DIN-BlackItalic.otf") format("opentype");
+  src: url('../fonts/DIN-BlackItalic.otf') format('opentype');
 }
 
 @font-face {
   font-family: 'DIN Black Italic Alt';
-  src: url("../fonts/DIN-BlackItalicAlt.otf") format("opentype");
+  src: url('../fonts/DIN-BlackItalicAlt.otf') format('opentype');
 }
 
 @font-face {
