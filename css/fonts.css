@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'DIN Black';
-  src: url("../fonts/DIN-Black.otf") format("opentype");
+  src: url('../fonts/DIN-Black.otf') format('opentype');
 }
 
 @font-face {
   font-family: 'DIN Black Alternate';
-  src: url("../fonts/DIN-BlackAlternate.otf") format("opentype");
+  src: url('../fonts/DIN-BlackAlternate.otf') format('opentype');
 }
 
 @font-face {
